@@ -1,0 +1,32 @@
+marquee{
+	background:green;
+	padding: 20px;
+	font-size: 30px;
+	font-family:sans-serif; 
+	color: snow;
+}
+.leftlink a{
+ 
+	display: block;
+	border-top: 2px solid  #90ee90;
+	border-left: 2px solid #90ee90;
+	border-right: 2px solid #32cd32;
+	border-bottom: 2px solid #32cd32;
+	padding: 10px 5px;
+	text-align: center;
+	background-color:#7cfc00;
+	color: black;
+	border-radius: 10px;
+}
+h3{
+	background: green;
+	font-family: sans-serif;
+	padding: 20px;
+	color: snow;
+	text-align: center;
+	margin-top: 200px
+}
+p{
+	margin:0px 0px 0px 600px;
+
+}
